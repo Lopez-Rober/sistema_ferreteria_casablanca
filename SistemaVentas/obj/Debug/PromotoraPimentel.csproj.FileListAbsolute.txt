@@ -1,0 +1,238 @@
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\SistemaVentas.dll.config
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\SistemaVentas.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\SistemaVentas.pdb
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\csc.exe
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\csc.exe.config
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\csc.rsp
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\csi.exe
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\csi.exe.config
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\csi.rsp
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.AppContext.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Console.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\vbc.exe
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\vbc.exe.config
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\vbc.rsp
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\CapaDatos.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\CapaModelo.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\CapaDatos.pdb
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\CapaModelo.pdb
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.AssemblyReference.cache
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.CoreCompileInputs.cache
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.CopyComplete
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\obj\Debug\SistemaVentas.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\SistemaVentas.dll.config
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\SistemaVentas.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\SistemaVentas.pdb
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\csc.exe
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\csc.exe.config
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\csc.rsp
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\csi.exe
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\csi.exe.config
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\csi.rsp
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.AppContext.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Console.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\vbc.exe
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\vbc.exe.config
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\vbc.rsp
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\CapaDatos.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\CapaModelo.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\CapaDatos.pdb
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\CapaModelo.pdb
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.AssemblyReference.cache
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.CoreCompileInputs.cache
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\obj\Debug\SistemaVentas.dll
+D:\Archivos\Documentos\Proyecto DESARROLLO DE APPS\PA_PP\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\SistemaVentas.dll.config
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\SistemaVentas.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\SistemaVentas.pdb
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\csc.exe
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\csc.exe.config
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\csc.rsp
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\csi.exe
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\csi.exe.config
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\csi.rsp
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.AppContext.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Console.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\vbc.exe
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\vbc.exe.config
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\vbc.rsp
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\CapaDatos.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\CapaModelo.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\CapaDatos.pdb
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\CapaModelo.pdb
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.AssemblyReference.cache
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.CoreCompileInputs.cache
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\obj\Debug\SistemaVentas.dll
+D:\2021-II\Desarrollo de Aplicaciones Distribuidas\Final\Nueva carpeta\PA_PP\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\SistemaVentas.dll.config
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\SistemaVentas.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\SistemaVentas.pdb
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\csc.exe
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\csc.exe.config
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\csc.rsp
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\csi.exe
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\csi.exe.config
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\csi.rsp
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.AppContext.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Console.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.IO.Compression.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Security.Claims.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.ValueTuple.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\vbc.exe
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\vbc.exe.config
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\vbc.rsp
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\CapaDatos.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\CapaModelo.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\CapaDatos.pdb
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\CapaModelo.pdb
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.AssemblyReference.cache
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.CoreCompileInputs.cache
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\obj\Debug\PromotoraPimentel.csproj.CopyComplete
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\obj\Debug\SistemaVentas.dll
+C:\Users\ROBER\source\repos\PA_PP\SistemaVentas\obj\Debug\SistemaVentas.pdb
